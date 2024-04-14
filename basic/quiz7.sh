@@ -1,1 +1,2 @@
-quiz7.sh
+#!/bin/sh
+echo "Hello, Linux!" > notes.txt
